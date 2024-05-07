@@ -116,7 +116,7 @@ Normalize our dataset.
 
 <H3>Program:</H3> 
 
-```
+``` py
 import pandas as pd
 import sklearn
 from sklearn import preprocessing
